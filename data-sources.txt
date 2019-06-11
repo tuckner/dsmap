@@ -1,0 +1,51 @@
+Process monitoring
+File monitoring
+Process command-line parameters
+API monitoring
+Process use of network
+Windows Registry
+Packet capture
+Authentication logs
+Netflow/Enclave netflow
+Windows event logs
+Binary file metadata
+Network protocol analysis
+DLL monitoring
+Loaded DLLs
+System calls
+Malware reverse engineering
+SSL/TLS inspection
+Anti-virus
+Network intrusion detection system
+Data loss prevention
+Application logs
+Email gateway
+Network device logs
+Web proxy
+Windows Error Reporting
+Kernel drivers
+User interface
+Host network interface
+Third-party application logs
+Services
+Web logs
+Detonation chamber
+Mail server
+Environment variable
+MBR
+BIOS
+Web application firewall logs
+Asset management
+DHCP
+DNS records
+Browser extensions
+Access tokens
+Digital certificate logs
+Disk forensics
+Component firmware
+WMI Objects
+VBR
+Named Pipes
+Sensor health and status
+EFI
+PowerShell logs

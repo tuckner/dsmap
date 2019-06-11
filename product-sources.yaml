@@ -1,0 +1,31 @@
+- name: Palo Alto
+  category: Firewall
+  data_type:
+    - Firewall
+    - Web Proxy
+  data_sources:
+    - SSL/TLS inspection
+    - Network intrusion detection system
+    - Web proxy
+    - Netflow/Enclave netflow
+- name: CrowdStrike
+  category: EDR
+  data_type:
+    - EDR
+  data_sources:
+    - PowerShell logs
+    - Process monitoring
+    - File monitoring
+    - Process command-line parameters
+    - API monitoring
+    - Process use of network
+    - Windows Registry
+    - Authentication logs
+- name: O365
+  category:
+    - Email
+  data_type:
+    - Email
+  data_sources:
+    - Email gateway
+    - Mail server
